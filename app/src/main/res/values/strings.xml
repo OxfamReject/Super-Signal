@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Super Signal</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="signalStrengthLabel">"Signal Strength (dBm): "</string>
+    <string name="cellLocationLabel">"Cell Location: "</string>
+    <string name="serviceStateLabel">Service State:</string>
+    <string name="stopServiceLabel">Stop Tracking</string>
+    <string name="moreInfoLabel">More Stats</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="SSIDLabel">SSID:</string>
+    <string name="BSSIDLabel">"BSSID: "</string>
+    <string name="MacAddressLabel">Mac Address:</string>
+    <string name="IPAddressLabel">IP Address</string>
+    <string name="FrequencyLabel">Frequency:</string>
+    <string name="LinkSpeedLabel">Link Speed:</string>
+    <string name="NetworkIDLabel">Network ID:</string>
+    <string name="RSSILabel">RSSI:</string>
+    <string name="WiFiLevelLabel">WiFi Signal Level:</string>
+    <string name="txtWiFi">WiFi Details</string>
+    <string name="SuperSignal">Super Signal</string>
+
+</resources>
